@@ -74,7 +74,7 @@ body {
         }
 
        
-        .submit-button {
+        .button {
             width: 100%;
             padding: 0.9em;
             border: none;
@@ -87,10 +87,10 @@ body {
             transition: background-color 0.3s ease, transform 0.1s ease;
         }
 
-        .submit-button:hover {
+        .button:hover {
             background-color: #0065fd; 
         }
         
-        .submit-button:active {
+        .button:active {
             transform: scale(0.99); 
         }
