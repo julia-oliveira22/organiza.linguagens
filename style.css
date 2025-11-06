@@ -8,8 +8,6 @@ body {
             min-height: 100vh;
             margin: 0;
         }
-
-       
         .form-container {
             background-color: #ffffff;
             border-radius: 12px;
@@ -96,6 +94,3 @@ body {
         .submit-button:active {
             transform: scale(0.99); 
         }
-        .centrar {
-          text-align: center; /* centraliza inline-blocks */
-           }
